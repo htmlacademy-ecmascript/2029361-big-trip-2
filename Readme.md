@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Александр Еловских](https://up.htmlacademy.ru/ecmascript-individual/2/user/2029361).
-* Наставник: `Неизвестно`.
+* Наставник: [Давид Чачанов](https://htmlacademy.ru/profile/id2355549). 
 
 ---
 
